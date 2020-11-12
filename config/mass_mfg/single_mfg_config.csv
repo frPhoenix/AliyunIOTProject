@@ -1,0 +1,6 @@
+key,type,encoding,value
+aliyun-key,namespace,,
+DeviceName,data,string,smartlight2
+DeviceSecret,data,string,730d448497bd8083e97d840b33adc83b
+ProductKey,data,string,a13PxzQNdnt
+ProductSecret,data,string,f8NMgdc6yjbAk1Fr
